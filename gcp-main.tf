@@ -1,4 +1,4 @@
-resource "google_app_engine_application" "app" {
+resource "google_app_engine_application" "Application" {
   project     = "labdevopscloud-343553"
   location_id = "us-central"
 }
